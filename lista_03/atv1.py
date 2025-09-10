@@ -1,0 +1,6 @@
+nome = input("Digite uma palavra qualquer: ")
+print(f"número de caracteres: {len(nome)}")
+print(f"Em letras maiúsculas: {nome.upper()}")
+print(f"Em letras minúsculas: {nome.lower()}")
+print(f"Primeiro caracter: {nome[0]}")
+print(f"ultimo caracter: {nome[-1]}")
